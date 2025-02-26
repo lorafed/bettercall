@@ -190,7 +190,7 @@ We welcome contributions! To contribute:
 
 ## **Contact**
 👨‍💻 **Maintainer:** Federico Lora  
-📩 **Email:** lorafed@github.com  
+📩 **Email:** lora.fed.03@gmail.com  
 🔗 **GitHub:** [lorafed](https://github.com/lorafed)  
 
 ---
